@@ -1,5 +1,5 @@
 ---
-- name: Install Apache Web Server on CentOS
+- name: Test Ansible and Jenkins
   hosts: 192.168.1.11
   tasks:
     - name: test jenkin ansible
