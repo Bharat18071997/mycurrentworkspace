@@ -1,5 +1,5 @@
 ---
-- name: Test Ansible and Jenkins
+- name: Test Ansible and Jenkins test
   hosts: 192.168.1.11
   tasks:
     - name: test jenkin ansible
